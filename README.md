@@ -1,0 +1,2 @@
+# bookstore
+python django project
